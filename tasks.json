@@ -1,0 +1,14 @@
+[
+  {
+    "task_name": "drink water",
+    "complete": false
+  },
+  {
+    "task_name": "do project X",
+    "complete": false
+  },
+  {
+    "task_name": "Apply to jobs",
+    "complete": false
+  }
+]
